@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836270612135",
+    "project_id": "bookingflow-ceb2b",
+    "storage_bucket": "bookingflow-ceb2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836270612135:android:d4f005f123725df6f1c582",
+        "android_client_info": {
+          "package_name": "com.tipie.bookingflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCcWLIk-1W3_Tpo9Cm_t9215BRs9A-KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

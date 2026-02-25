@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.tipie.bookingflow" />
+                  <option name="mobileSdkAppId" value="1:836270612135:android:d4f005f123725df6f1c582" />
+                  <option name="projectId" value="bookingflow-ceb2b" />
+                  <option name="projectNumber" value="836270612135" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
